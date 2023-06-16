@@ -42,7 +42,18 @@
   - *.gitignore* 파일을 사용해서 배제할 요소들을 지정할 수 있습니다.
   - https://git-scm.com/docs/gitignore 참조
 
-## 5.
+## 5. 변화를 타임캡슐에 담아 묻기
+- 프로젝트의 변경사항들을 타임캡슐(버전)에 담기
+  - 변경사항 확인 `git status` ※ untracked 파일 : Git의 관리에 들어간 적 없는 파일
+  - 파일 하나 담기 `git add tigers.yaml`
+  - 모든 파일 담기 `git add .`
+
+- 타임캡슐 묻기
+  - `git commit -m "FIRST COMMIT"`
+
+- `add` 와 `commit` 한꺼번에
+  - `git commit -am "커밋메시지"` ※ 새로 추가된(untracked)파일이 없을 때 한정
+ 
 
 
 
