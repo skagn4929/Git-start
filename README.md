@@ -88,12 +88,31 @@
     - `repo` 및 원하는 기능에 체크, 기간 설정 뒤 `Generate token`
     -  토큰 안전한 곳에 보관하기
  3. GitHub에 새 **Repository** 생성 
-    - `Public`: 
+    - `Public`: 모두에게 보일 수 있는 프로젝트
+    - `Private`: 허용된 인원만 볼 수 있는 프로젝트
+ 4. 협업할 팀원 추가
+    - 레포지토리의 `Settings` - `Collaborators`
+    - `Add people`
+
+## 9. 원격 저장소 사용하기
+- 로컬에 원격 저장소 추가 후 푸시
+    - GitHub 레포지토리 생성 후 다음 명령어 입력
+    - `git remote add origin (원격 저장소 주소)` - 로컬의 Git 저장소에 원격 저장소로의 연결 추가
+    - `git branch -M main` - 기본 브랜치명을 `main`으로
+    - `git push -u origin main` - 로컬 저장소의 커밋 내역들 원격으로 `push`(업로드)
+    - `git remote` - 원격 목록 보기
+
+- 원격으로 커밋 밀어올리기(**push**)
+    - `git push`
+
+- 원격의 커밋 당겨오기(**pull**)
+    - `git pull`
 
 
 
 
-## Reference
+---
+### Reference
 - [Git-commands](https://git-scm.com/docs/git#_git_commands)
 
 깃 명령어를 참고합니다.
