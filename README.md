@@ -80,8 +80,11 @@
 - https://github.com/ - Git으로 관리되는 프로젝트의 원격 저장소
 
 - 가입하고 토큰 만들기
- 1. `Sign up`으로 가입 후 
-
+ 1. `Sign up`으로 가입 후 로그인
+ 2. **Personal access token** 만들기
+    - 우측 상단의 프로필 - `settings`
+    - `Developer Settings`
+    - `Personal access tokens` - `Generate new token`
 
 ## Reference
 - [Git-commands](https://git-scm.com/docs/git#_git_commands)
