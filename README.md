@@ -52,7 +52,16 @@
   - `git commit -m "FIRST COMMIT"`
 
 - `add` 와 `commit` 한꺼번에
-  - `git commit -am "커밋메시지"` ※ 새로 추가된(untracked)파일이 없을 때 한정
+  - `git commit -am "커밋메시지"` ※ 새로 추가된(untracked) 파일이 없을 때 한정
+
+## 6. Git에서 과거로 돌아가는 두가지 방법
+- `reset`: 원하는 시점으로 돌아간 뒤 이후 내역들을 지웁니다.
+  - `git reset --hard (돌아갈 커밋 해시)`
+
+- `revert`: 되돌리기 원하는 시점의 커밋을 거꾸로 실행합니다.
+  - `git revert (되돌릴 커밋 해시)`
+
+
  
 
 
