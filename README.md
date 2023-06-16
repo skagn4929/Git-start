@@ -85,6 +85,13 @@
     - 우측 상단의 프로필 - `settings`
     - `Developer Settings`
     - `Personal access tokens` - `Generate new token`
+    - `repo` 및 원하는 기능에 체크, 기간 설정 뒤 `Generate token`
+    -  토큰 안전한 곳에 보관하기
+ 3. GitHub에 새 **Repository** 생성 
+    - `Public`: 
+
+
+
 
 ## Reference
 - [Git-commands](https://git-scm.com/docs/git#_git_commands)
