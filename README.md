@@ -38,7 +38,11 @@
 
 - 파일 상태 확인 ```git status```
 
+- Git의 관리에서 특정 파일/폴더를 배제해야 할 경우
+  - *.gitignore* 파일을 사용해서 배제할 요소들을 지정할 수 있습니다.
+  - https://git-scm.com/docs/gitignore 참조
 
+## 5.
 
 
 
