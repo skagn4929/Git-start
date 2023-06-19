@@ -112,7 +112,7 @@
 
 
 ---
-### Reference
+### 참고
 - [Git-commands](https://git-scm.com/docs/git#_git_commands)
 
-깃 명령어를 참고합니다.
+다양한 깃 명령어
