@@ -22,8 +22,8 @@
   - Github 계정과는 별도   
 
 - 터미널 프로그램에서 아래 명령어 실행   
-  - ```git config --global user.name "기남후"```   
-  - ```git config --global user.email "skagn4929@naver.com"```   
+  - ```git config --global user.name "사용자 이름"```   
+  - ```git config --global user.email "사용자 이메일"```   
 
 - 기본 브랜치명 변경   
   - ```git config --global init.defaultBranch main```
