@@ -6,7 +6,7 @@
 
 ---
 ## 1. Git 설치 (MAC)
-- https://git-scm.com/download/mac - 참조하여 Git 최신 버전 설치
+- https://git-scm.com/download/mac - Git 최신 버전 설치
   - Homebrew 설치 : https://brew.sh/ 
   - 다음 명령어로 Git 설치 : ```brew install git```
 
@@ -63,6 +63,7 @@
 ## 7. branch
 프로젝트를 하나 이상의 모습으로 관리해야 할 때, 여러 작업들이 각각 독립되어 진행될 때   
 이 모든 것을 하나의 프로젝트 폴더에서 진행할수 있도록 하는 것.
+
 - 브랜치 생성 / 이동 / 삭제하기
   - 브랜치 생성 : `git branch (브랜치명)`
   - 브랜치 목록 확인 : `git branch`
