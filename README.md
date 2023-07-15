@@ -14,7 +14,7 @@
   - 23.06.01 기준 2.41.0 버전
 
 ## 2. SourceTree 설치
-- https://www.sourcetreeapp.com/ - Git을 GUI로 다룰 수 있도록 해주는 툴입니다.
+- https://www.sourcetreeapp.com/ - Git을 GUI로 다룰 수 있도록 해주는 툴
 
 ## 3. Git 최초 설정
 - Git 전역으로 사용자 이름과 이메일 주소를 설정
